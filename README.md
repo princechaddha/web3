@@ -21,7 +21,7 @@ This place is where I jot down my learnings and thoughts as I explore the world 
 
 ### Solidity Basics
 - [Basics - Solidity [Part #1]](https://pwnmachine.me/2024/12/10/basics-solidity-part-1/↗)
-- [Functions - Solidity [Part #2]](https://pwnmachine.me/2024/12/17/functions-solidity-part-2/↗)(upcoming)
+- [Functions - Solidity [Part #2]](https://pwnmachine.me/2024/12/17/functions-solidity-part-2/↗)
 - [Data Structures - Solidity [Part #3]](https://pwnmachine.me/2024/12/24/data-structures-solidity-part-3/)(upcoming)
 - [Understanding Memory, Calldata, and Storage - Solidity [Part #4]](https://pwnmachine.me/2024/12/31/understanding-memory-calldata-and-storage-solidity-part-4/)(upcoming)
 
